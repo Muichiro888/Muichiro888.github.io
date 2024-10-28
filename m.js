@@ -1,0 +1,2 @@
+window.Start(play.song)
+
